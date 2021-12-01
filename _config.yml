@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dinesh Raghu"
   avatar           : "profile.png"
-  bio              : "Research Scientist, specializing in Conversation AI"
+  bio              : "Research Scientist at IBM Research, specializing in Conversation AI"
   location         : "New Delhi"
-  employer         : "IBM Research"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kphcPUkAAAAJ"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Dinesh-Raghu-2"
+  researchgate     : #"https://www.researchgate.net/profile/Dinesh-Raghu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
